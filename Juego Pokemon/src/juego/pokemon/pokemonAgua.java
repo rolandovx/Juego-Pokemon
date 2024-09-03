@@ -12,6 +12,9 @@ public class pokemonAgua extends Pokemon {
     
     public void hidrobomba() {
         System.out.println(getNombre() + " usa Hidrobomba!");
+    }    
+    public void chorro() {
+    System.out.println(getNombre() + " usa Chorro!");
     }
     
 }
